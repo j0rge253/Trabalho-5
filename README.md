@@ -3,5 +3,6 @@
 
 gcc Trabalho5.c -c
 
-#Compilar
+# Compilar
+
 gcc Trabalho5.o main.c -o Trabalho5
