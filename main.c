@@ -44,5 +44,5 @@ int main(){
   	
 	print(vet->elems, vet->P);
    
-	retorna 0;  
+	retorn 0;  
 }
